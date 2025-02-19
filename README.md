@@ -1,7 +1,7 @@
 ## Hi there, my name is Mateusz 👋
 
 
-**'Digital Craftsman (Full-Stack Developer)🔥'**
+**'Digital Craftsman🔥'**
 
 
 
