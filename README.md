@@ -8,7 +8,7 @@
 
 🤖 Tech enthusiast and innovator from Poland, driven to create intelligent solutions for real-world problems.
 
-✅ I explore various fields of programming, mainly focusing on JavaScript, Python, C++, React, and Sass, amongst others. I leverage my knowledge of HTML, JS, CSS, React, Python, PHP, Java, databases, SQL, XML, and more to build efficient and scalable systems.
+✅ I explore various fields of programming, mainly focusing on JavaScript, Python, React amongst others. I leverage my knowledge of HTML, JS, CSS, React, Python, PHP, Java, databases, SQL, XML, and more to build efficient and scalable systems.
 
 🧠 I'm fascinated by the human mind and behavior, which inspires me to create more intuitive and user-friendly interfaces.  This understanding allows me to approach development with a user-centric perspective.
 
